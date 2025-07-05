@@ -52,7 +52,7 @@ bash
 
 👨‍💻 Анна Васильева 
 📧 Email: pownjsk@yandex.ru 
-🌐 GitHub: [prpfil](https://github.com/powpsina) 
+🌐 GitHub: https://github.com/powpsina 
 📱 Telegram: @pownjsk  
 
 👨‍💻 Анастасия Рыбакова  
