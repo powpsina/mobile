@@ -47,3 +47,14 @@ bash
 
 # Запуск инструментальных тестов
 ./gradlew connectedDebugAndroidTest
+
+## Авторы
+
+👨‍💻 Анна Васильева 
+📧 Email: pownjsk@yandex.ru 
+🌐 GitHub: [prpfil](https://github.com/powpsina) 
+📱 Telegram: @pownjsk  
+
+👨‍💻 Анастасия Рыбакова  
+📧 Email: nastasy7575@gmail.com  
+📱 Telegram: @sdsdlsd  
