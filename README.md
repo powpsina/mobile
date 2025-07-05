@@ -50,10 +50,10 @@ bash
 
 ## Авторы
 
-👨‍💻 Анна Васильева 
-📧 Email: pownjsk@yandex.ru 
-🌐 GitHub: https://github.com/powpsina 
-📱 Telegram: @pownjsk  
+👨‍💻 Анна Васильева   
+📧 Email: pownjsk@yandex.ru   
+🌐 GitHub: https://github.com/powpsina   
+📱 Telegram: @pownjsk   
 
 👨‍💻 Анастасия Рыбакова  
 📧 Email: nastasy7575@gmail.com  
